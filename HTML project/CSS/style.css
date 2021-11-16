@@ -1,0 +1,90 @@
+
+html {
+    scroll-behavior: smooth !important;
+  }
+
+#brandname
+{
+    margin-left: 50px;
+    margin-top: 15px;
+    float: left;
+
+}
+span#lunch {
+    font-size: 30px;
+    font-family: cursive;
+}
+span#house {
+    font-size: 30px;
+    font-family: cursive;
+    color: #79c4b3;
+}
+div#container {
+    height: 80px;
+    background-color: white;
+    margin-top: 50px;
+}
+.column {
+    float: left;
+    width: 50%;
+}
+#info{
+    padding-top: 10px;
+    padding-left: 70px;
+}
+#info2{
+    padding-top: 70px;
+    padding-left: 70px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-size: 30px;
+    font-family: georgia,serif;
+    font-weight: 500;
+    margin-bottom: 0px;
+    margin-bottom: 0px;
+    margin-top: 6px;
+}
+p {
+    font-family: system-ui;
+    font-weight: 300;
+}
+input{
+    border: none;
+    height: 40px;
+    width: 350px;
+    
+}
+.textfield{
+    margin-bottom: 10px;
+}
+div#discover,#dishes,#Testimonials{
+    background: white;
+}
+div#about_us, #Subscribe, #contact_us{
+    background: #e0f9f3;
+}
+.famous{
+    width: 250px; 
+    height: 270px;
+    margin-right: 20px;
+}
+
+a{
+    font-family: georgia,serif !important;
+    color: black !important;
+    font-style: italic !important;
+    font-size: 17px !important;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #32a88d !important;
+    text-decoration: none !important;
+}
+
+
+#dish img:hover {
+    -ms-transform: scale(1.1); 
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1); 
+  }
